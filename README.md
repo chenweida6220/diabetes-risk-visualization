@@ -1,4 +1,4 @@
-# Project Name
+# Diabetes Data Visualization Project
 This project is a part of the Data Visualization Project at [COOP Careers Fellowship](https://coopcareers.org/).
 
 #### -- Project Status: [Completed]
@@ -11,6 +11,7 @@ The purpose of this project is to identify and visualize risk factors associated
 * Data Visualization
 
 ### Technologies
+* Excel
 * Tableau
 
 ## Project Description
@@ -22,22 +23,20 @@ The key research questions explored include:
 3. Does education level play a protective role in diabetes prevalence?
 
 ## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+- **Data Exploration & Descriptive Statistics**
+  Further breakdowns by age, race, gender, and region to uncover more granular trends.
+- **Statistical Modeling**  
+  Build predictive models (e.g., logistic regression, decision trees, or random forests) to estimate diabetes risk from selected features.
+- **Frontend Development**  
+  Develop an interactive dashboard using Streamlit, Dash, or Tableau Public to make visualizations more accessible to non-technical audiences.
+- **Writeup & Reporting**  
+  Translate data insights into actionable recommendations or public health communication materials (e.g., policy briefs, blog posts, infographics).
+- **Public Health Collaboration**  
+  Partner with public health professionals to contextualize findings and ensure alignment with real-world prevention strategies.
 
 ## Getting Started
-
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/chenweida6220/diabetes-risk-visualization/tree/main/data) within this repo.    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [COOP Diabates Data Visualization Project](https://github.com/chenweida6220/diabetes-risk-visualization/blob/main/COOP%20Diabetes%20Data%20Visualization%20Project.pdf)
