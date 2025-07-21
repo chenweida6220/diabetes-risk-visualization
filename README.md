@@ -23,7 +23,7 @@ The key research questions explored include:
 3. Does education level play a protective role in diabetes prevalence?
 
 ## Needs of this project
-- **Data Exploration & Descriptive Statistics**
+- **Data Exploration & Descriptive Statistics**  
   Further breakdowns by age, race, gender, and region to uncover more granular trends.
 - **Statistical Modeling**  
   Build predictive models (e.g., logistic regression, decision trees, or random forests) to estimate diabetes risk from selected features.
