@@ -41,3 +41,4 @@ The key research questions explored include:
 ## Featured Notebooks/Analysis/Deliverables
 * [COOP Diabates Data Visualization Project](https://github.com/chenweida6220/diabetes-risk-visualization/blob/main/COOP%20Diabetes%20Data%20Visualization%20Project.pdf)
 * [Visualizing Diabetes Risk - An Analysis of CDC’s 2015 BRFSS Data](https://github.com/chenweida6220/diabetes-risk-visualization/blob/main/Visualizing%20Diabetes%20Risk%20-%20An%20Analysis%20of%20CDC%E2%80%99s%202015%20BRFSS%20Data.pdf)
+* [Tableau Workbook](https://github.com/chenweida6220/diabetes-risk-visualization/tree/main/notebook)
